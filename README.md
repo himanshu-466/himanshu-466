@@ -6,7 +6,7 @@
   
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently looking for **Android Development Job**
+- 🔭 I’m currently looking for **FrontEnd Development Job**
 
 - 🌱 I’m currently learning **ReactJs and Android.**
 
