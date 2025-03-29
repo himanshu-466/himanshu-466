@@ -10,9 +10,9 @@
 🎨 Passionate about crafting intuitive and high-performance UIs
 
  Tech Stack
-Frontend: React.js, Next.js, TypeScript, JavaScript, Redux, Zustand
+Frontend: React.js, Next.js, TypeScript, JavaScript, Redux
 
-Styling: Tailwind CSS, SCSS, Styled Components
+Styling: Tailwind CSS, Styled Components, Material UI
 
 Build Tools: Webpack, Vite
 
